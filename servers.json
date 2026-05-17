@@ -18,15 +18,5 @@
       "revenge_host": "104.234.189.170",
       "revenge_port": 7777,
       "id": 2
-    },
-    {
-      "color": "ff0000",
-      "maxonline": 1000,
-      "name": "New #3",
-      "online": 936,
-      "recommend": false,
-      "revenge_host": "51.38.205.167",
-      "revenge_port": 13750,
-      "id": 3
     }
 ]
