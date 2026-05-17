@@ -18,5 +18,15 @@
       "revenge_host": "104.234.189.170",
       "revenge_port": 7777,
       "id": 2
+    },
+    {
+      "color": "ff0000",
+      "maxonline": 1000,
+      "name": "BMRP #3",
+      "online": 936,
+      "recommend": false,
+      "revenge_host": "151.242.227.121",
+      "revenge_port": 7777,
+      "id": 3
     }
 ]
