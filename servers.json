@@ -22,11 +22,11 @@
     {
       "color": "ff0000",
       "maxonline": 1000,
-      "name": "BMRP #3",
+      "name": "New #3",
       "online": 936,
       "recommend": false,
-      "revenge_host": "151.242.227.121",
-      "revenge_port": 7777,
+      "revenge_host": "51.38.205.167",
+      "revenge_port": 13750,
       "id": 3
     }
 ]
