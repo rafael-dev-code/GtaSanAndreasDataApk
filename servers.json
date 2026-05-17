@@ -1,11 +1,32 @@
 [
     {
-      "color": "FF0000",
-      "dopname": "(X2 АКЦИИ)",
-      "ip": "51.81.90.138",
-      "port": 7777,
-      "maxonline": 100,
-      "name": "Brasil Play Games",
-      "online": 10
+      "color": "ff368418",
+      "maxonline": 1000,
+      "name": "Revoada #1",
+      "online": 1000,
+      "recommend": true,
+      "revenge_host": "51.81.90.138",
+      "revenge_port": 7777,
+      "id": 1
+    },
+   {
+      "color": "30d5c8",
+      "maxonline": 1000,
+      "name": "Brasil Play Games #2",
+      "online": 841,
+      "recommend": true,
+      "revenge_host": "104.234.189.170",
+      "revenge_port": 7777,
+      "id": 2
+    },
+    {
+      "color": "ff0000",
+      "maxonline": 1000,
+      "name": "BMRP #3",
+      "online": 936,
+      "recommend": false,
+      "revenge_host": "151.242.227.121",
+      "revenge_port": 7777,
+      "id": 3
     }
 ]
