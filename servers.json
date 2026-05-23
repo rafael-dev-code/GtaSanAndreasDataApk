@@ -5,7 +5,7 @@
       "name": "Revoada #1",
       "online": 1000,
       "recommend": true,
-      "revenge_host": "51.81.90.138",
+      "revenge_host": "127.0.0.1",
       "revenge_port": 7777,
       "id": 1
     },
