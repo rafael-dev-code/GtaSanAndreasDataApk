@@ -1,1 +1,9 @@
-[{"color":"FF0000","dopname":"","maxonline":500,"name":"КИЇВСЬКИЙ","online":36,"multiple":1}]
+[
+    {
+      "color": "FF0000",
+      "dopname": "(X999 АКЦИИ)",
+      "maxonline": 1000,
+      "name": "RED",
+      "online": 2
+    }
+]
