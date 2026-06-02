@@ -1,26 +1,20 @@
 [
   {
-    "ip": "10.130.23.179",
+    "color": "FF0000",
+    "dopname": "(X2)",
+    "ip": "151.242.227.46",
+    "maxonline": 100,
+    "name": "RED",
     "port": 7777,
-    "x2": "(X2)",
-    "name": "Localhost",
-    "online": 2,
-    "maxonline": 1000
+    "online": 10
   },
   {
-    "ip": "104.234.189.170",
+    "color": "FF0000",
+    "dopname": "(X2)",
+    "ip": "64.20.40.190",
+    "maxonline": 100,
+    "name": "BLUE",
     "port": 7777,
-    "x2": "(X2)",
-    "name": "Brasil Play Games",
-    "online": 5,
-    "maxonline": 1000
-  },
-  {
-    "ip": "151.242.227.121",
-    "port": 7777,
-    "x2": "(X2)",
-    "name": "BMRP",
-    "online": 3,
-    "maxonline": 1000
-  }
+    "online": 20
+  }  
 ]
