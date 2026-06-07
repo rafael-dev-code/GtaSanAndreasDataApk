@@ -1,32 +1,14 @@
 [
     {
-      "color": "ff368418",
-      "maxonline": 1000,
-      "name": "Local #1",
-      "online": 1000,
-      "recommend": true,
-      "revenge_host": "10.130.23.179",
-      "revenge_port": 7777,
-      "id": 1
-    },
-   {
-      "color": "30d5c8",
-      "maxonline": 1000,
-      "name": "Brasil Play Games #2",
-      "online": 841,
-      "recommend": true,
-      "revenge_host": "104.234.189.170",
-      "revenge_port": 7777,
-      "id": 2
+        "ip": "10.130.23.179",
+        "port": 7777
     },
     {
-      "color": "ff0000",
-      "maxonline": 1000,
-      "name": "BMRP #3",
-      "online": 936,
-      "recommend": false,
-      "revenge_host": "151.242.227.121",
-      "revenge_port": 7777,
-      "id": 3
+        "ip": "104.234.189.170",
+        "port": 7777
+    },
+    {
+        "ip": "151.242.227.121",
+        "port": 7777
     }
 ]
